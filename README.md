@@ -25,3 +25,17 @@ After choosing level, the game started! Compete with your friend by **_moving yo
 ![4 Game Finish](https://user-images.githubusercontent.com/74699417/125155264-c6ad9a80-e188-11eb-821a-82b6ff5606e2.gif)
 
 Once you arrive at the finish line, game sessions will end and show who the real winner of the race. Congrats! You become the fastest frog in the city!
+
+## Game Project Details
+
+**1. Frame work.**
+
+For this project we use two frame work, [Colyseus](https://www.colyseus.io/) and [Express](https://docs.nestjs.com/). Both of them are built in Node.JS and the best choose to make multiplayer game online.
+
+**2. Database.**
+
+For database, we use [MongoDB](https://mongodb.com/) that good for modern application developers and for the cloud era.
+
+**3. Authentication**
+
+To identify player, we use authentication by [JWT](https://jwt.io/) that good for daily single uses token.
