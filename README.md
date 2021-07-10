@@ -45,6 +45,10 @@ For this project we use two frame work, [Colyseus](https://www.colyseus.io/) and
 
 For database, we use [MongoDB](https://mongodb.com/) that good for modern application developers and for the cloud era.
 
-**5. Authentication**
+**5. Authentication.**
 
 To identify player, we use authentication by [JWT](https://jwt.io/) that good for daily single uses token.
+
+**6. Specification.**
+
+Node.js up from version 8.9.0 and Unity up from version 2019.4.4f1.
