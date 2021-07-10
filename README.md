@@ -96,3 +96,9 @@ cd ./Unity Client/Froggies Jump
 ```
 - Add the project into Unity Hub.
 - Open and you are ready to work!
+
+## Development Team.
+
+- (Author) 4210181005 Muhammad Rizal Fauzi Wahyu P.
+- (Author) 4210181008 Zsalsabilla Pasya E.
+- (Course) Praktikum Desain Multiplayer Game Online
