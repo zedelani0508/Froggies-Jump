@@ -100,5 +100,5 @@ cd ./Unity Client/Froggies Jump
 ## Development Team.
 
 - (Author) 4210181005 Muhammad Rizal Fauzi Wahyu P.
-- (Author) 4210181008 Zsalsabilla Pasya E.
+- **(Author) 4210181008 Zsalsabilla Pasya E.**
 - (Course) Praktikum Desain Multiplayer Game Online
