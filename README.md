@@ -1,7 +1,7 @@
 # Froggies Jump
 Froggies Jump is semi-race multiplayer game online where you playing as a frog who trying to become the fastest frog in the city. This game can be played up to 10 or more player in one sessions as long as it's not ended. If the game sessions already have a winner, you should restart the game to play with your friend again. It's simple yet fun to test your friendship and competitiveness.
 
-**Game infos:**
+**Game Infos:**
 
 Genre       : Arcade, Race.
 
