@@ -37,29 +37,35 @@ After choosing level, the game started! Compete with your friend by **_moving yo
 
 Once you arrive at the finish line, game sessions will end and show who the real winner of the race. Congrats! You become the fastest frog in the city!
 
+
 ## Game Project Details
 
-**1. Deployment Diagram**
+**- Deployment Diagram**
 
 ![Deploy](https://user-images.githubusercontent.com/74699417/125155994-5ead8300-e18d-11eb-98c6-67f10fd2b0ed.png)
 
-**2. Architecture Diagram**
+**- Architecture Diagram**
 
 ![Archi](https://user-images.githubusercontent.com/74699417/125156012-771d9d80-e18d-11eb-8e54-a8d43c2e4963.png)
 
 
-**3. Frame work.**
+**- Frame work.**
 
 For this project we use two frame work, [Colyseus](https://www.colyseus.io/) and [Express](https://docs.nestjs.com/). Both of them are built in Node.JS and the best choose to make multiplayer game online.
 
-**4. Database.**
+**- Database.**
 
 For database, we use [MongoDB](https://mongodb.com/) that good for modern application developers and for the cloud era.
 
-**5. Authentication.**
+**- Authentication.**
 
 To identify player, we use authentication by [JWT](https://jwt.io/) that good for daily single uses token.
 
-**6. Specification.**
+**- Specification.**
 
 Node.js up from version 8.9.0 and Unity up from version 2019.4.4f1.
+
+
+## Documentations
+
+- **Setup Colyseus Server.**
