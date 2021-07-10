@@ -40,11 +40,11 @@ Once you arrive at the finish line, game sessions will end and show who the real
 
 ## Game Project Details
 
-- **Deployment Diagram**
+- **Deployment Diagram.**
 
 ![Deploy](https://user-images.githubusercontent.com/74699417/125155994-5ead8300-e18d-11eb-98c6-67f10fd2b0ed.png)
 
-- **Architecture Diagram**
+- **Architecture Diagram.**
 
 ![Archi](https://user-images.githubusercontent.com/74699417/125156012-771d9d80-e18d-11eb-8e54-a8d43c2e4963.png)
 
